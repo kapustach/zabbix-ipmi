@@ -1,0 +1,2 @@
+# zabbix-ipmi
+Zabbix IPMI
